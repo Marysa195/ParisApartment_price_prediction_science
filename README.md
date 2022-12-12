@@ -8,4 +8,4 @@ EDA.ipynb - notebook with data preprocessing and analysis;
 Model_training.ipynb - notebook with ML-model selection;  
 /data - folder with raw (got with Bienici_API_requests.ipynb) and processed data
 
-Also you can get acquainted with my second project where using the same data I built the service (full cycle production - backend with FastApi + frontend with Streamlit + Docker compose) to predict prices for apartments in Paris.
+Also you can get acquainted with my second project where using the same data I built the service (full cycle production - backend with FastApi + frontend with Streamlit + Docker compose) to predict prices for apartments in Paris (https://github.com/Marysa195/Paris_apartments_service).
